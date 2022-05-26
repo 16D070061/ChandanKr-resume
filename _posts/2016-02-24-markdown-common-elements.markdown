@@ -12,7 +12,21 @@ category: blog
 author: johndoe
 description: Markdown summary with different options
 ---
+## First Quantum of Contribution
 
+Hello All,
+
+I am back to my very own space. I was hoping to write on to this page since a very long time. But yeah, if only I could have contributed earlier. But better late than never.
+
+Choosing an organisation is a difficult task in its own. It’s like choosing a dish at a restaurent you visited for the first time with all dishes unfamilier. Choosing interest over programming language you know is like choosing taste over money.
+
+After looking for various restaurents in the street, and after going through their menu and prices, finally settled with a restaurent named Scikit-learn, which offered taste of my interest and the money I could afford.
+
+So, after staring at the menu for a long enough time, I decided to put my money on this. The cheapest I could find!! ;)
+
+And yeah, the food was great, also the price. Will be sticking around here for a while at least.
+
+Let’s dive deeper into the food I had, ohh, the issue I solved.
 <!-- ## Basic formatting
 
 This note **demonstrates** some of what [Markdown][1] is *capable of doing*.
@@ -21,39 +35,33 @@ And that's how to do it.
 
 {% highlight html %}
 This note **demonstrates** some of what [Markdown][some/link] is *capable of doing*.
-{% endhighlight %} -->
-
-## Hello,
-
-Here’s a list of my contributions to the scikit-learn repository. The mentorship that I got enabled me to contribute. The people of the organization are very friendly and entertains silliest of the doubts. All thanks to them!!
-
-Merged Pull Requests:
+{% endhighlight %}
 
 ---
 
 ## Headings
 
 There are six levels of headings. They correspond with the six levels of HTML headings. You've probably noticed them already in the page. Each level down uses one more hash character. But we are using just 4 of them.
-<!-- 
+
 # Headings can be small
 
 ## Headings can be small
 
 ### Headings can be small
 
-#### Headings can be small -->
+#### Headings can be small
 
-<!-- {% highlight raw %}
+{% highlight raw %}
 # Heading
 ## Heading
 ### Heading
 #### Heading
-{% endhighlight %} -->
+{% endhighlight %}
 
 ---
 
-## myLists
-<!-- 
+## Lists
+
 ### Ordered list
 
 1. Item 1
@@ -64,7 +72,7 @@ There are six levels of headings. They correspond with the six levels of HTML he
 1. Item 1
 2. A second item
 3. Number 3
-{% endhighlight %} -->
+{% endhighlight %}
 
 ### Unordered list
 
@@ -73,26 +81,26 @@ There are six levels of headings. They correspond with the six levels of HTML he
 * Yet another item
 * And there's more...
 
-<!-- {% highlight raw %}
+{% highlight raw %}
 * An item
 * Another item
 * Yet another item
 * And there's more...
-{% endhighlight %} -->
+{% endhighlight %}
 
 ---
 
-<!-- ## Paragraph modifiers -->
+## Paragraph modifiers
 
-### Famous Quote
+### Quote
 
 > Here is a quote. What this is should be self explanatory. Quotes are automatically indented when they are used.
 
-<!-- {% highlight raw %}
+{% highlight raw %}
 > Here is a quote. What this is should be self explanatory.
-{% endhighlight raw %} -->
+{% endhighlight raw %}
 
-<!-- ---
+---
 
 ## URLs
 
@@ -119,11 +127,11 @@ It's sometimes handy for breaking things up.
 ---
 {% endhighlight %}
 
---- -->
+---
 
 ## Images
 
-<!-- Markdown can also contain images. I'll need to add something here sometime.
+Markdown can also contain images. I'll need to add something here sometime.
 
 {% highlight raw %}
 ![Markdowm Image][/image/url]
@@ -139,19 +147,19 @@ It's sometimes handy for breaking things up.
 {% endhighlight %}
 
 ![Markdowm Image][5]
-<figcaption class="caption">Photo by John Doe</figcaption> -->
+<figcaption class="caption">Photo by John Doe</figcaption>
 
 *Bigger Images*?
-<!-- 
+
 {% highlight raw %}
 ![Markdowm Image][/image/url]{: class="bigger-image" }
-{% endhighlight %} -->
+{% endhighlight %}
 
 ![Markdowm Image][5]{: class="bigger-image" }
-<figcaption class="caption">Photo by John Doe</figcaption>
+
 ---
 
-<!-- ## Code
+## Code
 
 A HTML Example:
 
