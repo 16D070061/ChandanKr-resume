@@ -6,7 +6,7 @@ layout: page
 
 <h2> Hi </h2>
 
-<p> I am currently working at Accentute with Data Science Analyst role. I have have work experiance of 1 year in Data Science, Machina learning, Deep learning and Full Stack Development. I have learned many skills here and I am activily looking for Data Scientist and Software Developemnt role to apply those skills. My research interest lies broadly in creating end-to-end Artificial Intelligence Applications for real world use. I am currently working on learning new skills.</p>
+<p> I am currently working at Accentute with Data Science Analyst role. I have work experiance of 1 year in Data Science, Machina learning, Deep learning and Full Stack Development. I have learned many skills here and I am activily looking for Data Scientist and Software Developemnt role to apply these skills. My research interest lies broadly in creating end-to-end Artificial Intelligence Applications for real world use. I am working on learning more skills.</p>
 
 <p>Prior to this, I spent five wonderful years at IIT Bombay where I completed my Dual Degree (B.Tech and M.Tech) in Electrical Engineering. In my masters thesis, I was supervised by Prof. Jayanta Mukherjee where I worked on SIW Yagi-Uda Antenna MIMO System for 5G.</p>
 
