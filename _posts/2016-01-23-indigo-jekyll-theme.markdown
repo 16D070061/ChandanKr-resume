@@ -1,7 +1,7 @@
 ---
 title: ":ramen: Indigo, minimalist jekyll theme"
 layout: post
-date: 2016-01-23 22:10
+date: 2022-05-26 22:10
 tag: jekyll
 image: https://chandankrintellivision.github.io/ChandanKr-profile/assets/images/jekyll-logo-light-solid.png
 headerImage: true
@@ -13,10 +13,18 @@ author: johndoe
 externalLink: false
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
+<!-- ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png) -->
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](https://chandankrintellivision.github.io/ChandanKr-profile/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+project#1 - My projects works lke a charm
+project#1 - My projects works lke a charm
+---
 
+---
+
+<!-- ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png) -->
+
+project#1 - My projects works lke a charm
+project#1 - My projects works lke a charm
 ---
 
 What has inside?
@@ -26,9 +34,4 @@ What has inside?
 - Stylus
 - SVG
 - No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
-
 ---
-
-[Check it out](hhttps://chandankrintellivision.github.io/ChandanKr-profile/) here.
-If you need some help, just [tell me](https://chandankrintellivision.github.io/ChandanKr-profile/issues).
