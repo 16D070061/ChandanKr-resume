@@ -1,5 +1,5 @@
 ---
-title: "Markdown Common Elements"
+title: "My Contributions to Scikit-Learn"
 layout: post
 date: 2016-02-24 22:44
 image: /assets/images/markdown.jpg
@@ -13,7 +13,7 @@ author: johndoe
 description: Markdown summary with different options
 ---
 
-## Basic formatting
+<!-- ## Basic formatting
 
 This note **demonstrates** some of what [Markdown][1] is *capable of doing*.
 
@@ -21,33 +21,39 @@ And that's how to do it.
 
 {% highlight html %}
 This note **demonstrates** some of what [Markdown][some/link] is *capable of doing*.
-{% endhighlight %}
+{% endhighlight %} -->
+
+## Hello,
+
+Here’s a list of my contributions to the scikit-learn repository. The mentorship that I got enabled me to contribute. The people of the organization are very friendly and entertains silliest of the doubts. All thanks to them!!
+
+Merged Pull Requests:
 
 ---
 
 ## Headings
 
 There are six levels of headings. They correspond with the six levels of HTML headings. You've probably noticed them already in the page. Each level down uses one more hash character. But we are using just 4 of them.
-
+<!-- 
 # Headings can be small
 
 ## Headings can be small
 
 ### Headings can be small
 
-#### Headings can be small
+#### Headings can be small -->
 
-{% highlight raw %}
+<!-- {% highlight raw %}
 # Heading
 ## Heading
 ### Heading
 #### Heading
-{% endhighlight %}
+{% endhighlight %} -->
 
 ---
 
-## Lists
-
+## myLists
+<!-- 
 ### Ordered list
 
 1. Item 1
@@ -58,7 +64,7 @@ There are six levels of headings. They correspond with the six levels of HTML he
 1. Item 1
 2. A second item
 3. Number 3
-{% endhighlight %}
+{% endhighlight %} -->
 
 ### Unordered list
 
@@ -67,26 +73,26 @@ There are six levels of headings. They correspond with the six levels of HTML he
 * Yet another item
 * And there's more...
 
-{% highlight raw %}
+<!-- {% highlight raw %}
 * An item
 * Another item
 * Yet another item
 * And there's more...
-{% endhighlight %}
+{% endhighlight %} -->
 
 ---
 
-## Paragraph modifiers
+<!-- ## Paragraph modifiers -->
 
-### Quote
+### Famous Quote
 
 > Here is a quote. What this is should be self explanatory. Quotes are automatically indented when they are used.
 
-{% highlight raw %}
+<!-- {% highlight raw %}
 > Here is a quote. What this is should be self explanatory.
-{% endhighlight raw %}
+{% endhighlight raw %} -->
 
----
+<!-- ---
 
 ## URLs
 
@@ -113,11 +119,11 @@ It's sometimes handy for breaking things up.
 ---
 {% endhighlight %}
 
----
+--- -->
 
 ## Images
 
-Markdown can also contain images. I'll need to add something here sometime.
+<!-- Markdown can also contain images. I'll need to add something here sometime.
 
 {% highlight raw %}
 ![Markdowm Image][/image/url]
@@ -133,19 +139,19 @@ Markdown can also contain images. I'll need to add something here sometime.
 {% endhighlight %}
 
 ![Markdowm Image][5]
-<figcaption class="caption">Photo by John Doe</figcaption>
+<figcaption class="caption">Photo by John Doe</figcaption> -->
 
 *Bigger Images*?
-
+<!-- 
 {% highlight raw %}
 ![Markdowm Image][/image/url]{: class="bigger-image" }
-{% endhighlight %}
+{% endhighlight %} -->
 
 ![Markdowm Image][5]{: class="bigger-image" }
-
+<figcaption class="caption">Photo by John Doe</figcaption>
 ---
 
-## Code
+<!-- ## Code
 
 A HTML Example:
 
@@ -194,7 +200,7 @@ $(window).scroll(function() {
     }
 
 });
-{% endhighlight %}
+{% endhighlight %} -->
 
 [1]: https://daringfireball.net/projects/markdown/
 [2]: https://www.fileformat.info/info/unicode/char/2163/index.htm
